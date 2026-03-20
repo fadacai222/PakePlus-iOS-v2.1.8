@@ -1,0 +1,90 @@
+{
+  "scoreInfo": {
+    "offset": 0
+  },
+  "bpms": [
+    {
+      "lineNo": 0,
+      "bpmVal": 120
+    }
+  ],
+  "boards": [
+    {
+      "lineDatas": [
+        {
+          "lineNo": 0,
+          "arrows": [
+            {"aType": 0, "player": 1, "length": 0},
+            {"aType": 1, "player": 1, "length": 0}
+          ]
+        },
+        {
+          "lineNo": 48,
+          "arrows": [
+            {"aType": 2, "player": 1, "length": 0},
+            {"aType": 3, "player": 1, "length": 0}
+          ]
+        },
+        {
+          "lineNo": 96,
+          "arrows": [
+            {"aType": 4, "player": 1, "length": 0},
+            {"aType": 5, "player": 1, "length": 0}
+          ]
+        },
+        {
+          "lineNo": 144,
+          "arrows": [
+            {"aType": 6, "player": 1, "length": 0},
+            {"aType": 7, "player": 1, "length": 0}
+          ]
+        },
+        {
+          "lineNo": 192,
+          "arrows": [
+            {"aType": 8, "player": 1, "length": 48}
+          ]
+        },
+        {
+          "lineNo": 288,
+          "arrows": [
+            {"aType": 0, "player": 1, "length": 0},
+            {"aType": 2, "player": 1, "length": 0},
+            {"aType": 4, "player": 1, "length": 0}
+          ]
+        },
+        {
+          "lineNo": 384,
+          "arrows": [
+            {"aType": 1, "player": 1, "length": 0},
+            {"aType": 3, "player": 1, "length": 0},
+            {"aType": 5, "player": 1, "length": 0}
+          ]
+        },
+        {
+          "lineNo": 480,
+          "arrows": [
+            {"aType": 6, "player": 1, "length": 0},
+            {"aType": 7, "player": 1, "length": 0},
+            {"aType": 8, "player": 1, "length": 0}
+          ]
+        },
+        {
+          "lineNo": 576,
+          "arrows": [
+            {"aType": 0, "player": 1, "length": 96},
+            {"aType": 8, "player": 1, "length": 96}
+          ]
+        },
+        {
+          "lineNo": 768,
+          "arrows": [
+            {"aType": 3, "player": 1, "length": 0},
+            {"aType": 4, "player": 1, "length": 0}
+          ]
+        }
+      ]
+    }
+  ],
+  "players": [1]
+}
